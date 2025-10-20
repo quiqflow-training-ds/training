@@ -1,6 +1,14 @@
 // example.js
 
 // 1. Variables
+let name = "Fares";
+const age = 25;
+var isDeveloper = true;
+
+// 2. Function
+function greet(userName) {
+  return `Hello, ${userName}! Welcome to JavaScript. edit`;
+}
 
 // 3. Object
 const user = {
